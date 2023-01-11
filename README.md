@@ -1,4 +1,4 @@
-# Two small data analysis projects in craft beer QC regarding yeast fermentation characteriscs
+# Two small data analysis projects within a quality control craft brewing operations context regarding yeast fermentation characteriscs
 
 ## Project 1 : Québécois Saaz Pilsner with 2 different lager strains
 
